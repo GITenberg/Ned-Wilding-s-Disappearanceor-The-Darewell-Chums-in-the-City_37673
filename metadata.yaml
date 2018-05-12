@@ -1,0 +1,27 @@
+_repo: Ned-Wilding-s-Disappearanceor-The-Darewell-Chums-in-the-City_37673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, Allen
+    gutenberg_agent_id: '2575'
+    url: http://www.gutenberg.org/2009/agents/2575
+description: ''
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Ned Wilding's Disappearance; or, The Darewell Chums in the City
+url: http://www.gutenberg.org/ebooks/37673
